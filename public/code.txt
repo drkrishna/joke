@@ -1,0 +1,8 @@
+keyboard shortcuts used in this projects are
+
+1. split the text editor window - ctrl + \
+2. set focus to editor group after spliting the editor windows , ctrl + number in main keyboard not in numeric keyboard
+3. chagne the shortcut to enter to zen mode is ctrl+alt+Z. same is used to toggle zen mode
+   zen mode is where only the editor windows are visible everything else is hidden
+4.  open the explorer window ctrl+shift+E and for search ctrl+shift+f. 
+5. to hide the left panel(search or explorer) you have to click in the panel and then press ctrl+B.
